@@ -59,7 +59,7 @@ console.log("Welcome to my GitHub profile!");
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+TypeScript+Developer;Generative AI+%26+Agentic AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+TypeScript+Developer;Generative+AI+%26+Agentic+AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
