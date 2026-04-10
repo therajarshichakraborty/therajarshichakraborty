@@ -59,7 +59,7 @@ console.log("Welcome to my GitHub profile!");
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+TypeScript+Developer;Generative AI+%26+Agentic AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -85,11 +85,6 @@ print(f"Current Focus: {tech.get_expertise_level()}")
 ```
 ---
 
-
----
-
----
-
 ## 💡 **Current Mission**
 
 ```typescript
@@ -105,27 +100,6 @@ const myJourney: CurrentFocus = {
   exploring: ["Computer Vision", "NLP Applications", "DevOps Practices"]
 };
 ```
-
----
-
-## 🌐 **Let's Connect & Code Together**
-
-<div align="center">
-
-```bash
-# Get in touch
-$ curl -X GET ""
-$ git clone "9"
-$ echo "" | mail -s "Let's collaborate!"
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijita-jana)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijitajana9)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijitajana003@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
