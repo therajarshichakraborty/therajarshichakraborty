@@ -48,45 +48,7 @@
 
 <div align="center">
 
-  <style>
-    .leetcode-card {
-      display: inline-block;
-      padding: 20px;
-      border-radius: 16px;
-      background: linear-gradient(145deg, #0f172a, #1e293b);
-      box-shadow: 
-        0 10px 30px rgba(0, 0, 0, 0.6),
-        inset 0 0 10px rgba(255, 255, 255, 0.05);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
 
-    .leetcode-card:hover {
-      transform: translateY(-6px) scale(1.02);
-      box-shadow: 
-        0 20px 40px rgba(0, 0, 0, 0.8),
-        0 0 25px rgba(34, 211, 238, 0.4);
-    }
-
-    .leetcode-title {
-      font-family: 'Poppins', sans-serif;
-      font-size: 20px;
-      font-weight: 600;
-      color: #e2e8f0;
-      margin-bottom: 12px;
-      letter-spacing: 0.5px;
-    }
-
-    .leetcode-card img {
-      border-radius: 12px;
-      max-width: 100%;
-      height: auto;
-      transition: filter 0.3s ease;
-    }
-
-    .leetcode-card:hover img {
-      filter: brightness(1.1) contrast(1.05);
-    }
-  </style>
 
   <div class="leetcode-card">
     <div class="leetcode-title">🔥 LeetCode Heatmap & Stats</div>
