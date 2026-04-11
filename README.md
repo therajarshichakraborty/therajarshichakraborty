@@ -1,7 +1,7 @@
-# Hello 👋🏻, I'm Arghya Chakraborty
+# Hello 👋🏻, I'm Rajarshi Chakraborty
 ### I am a Full-Stack TypeScript Developer.
 
-<h4> Arghya Chakraborty - Computer Science undergrad (2027) specializing in software engineering, system design, and high-performance full-stack development. I focus on building scalable, secure, and reliable applications with clean architecture and optimized code. Passionate about engineering excellence, product thinking, and delivering solutions that drive real business impact. Actively seeking opportunities to contribute to large-scale, mission-critical projects. </h4>
+<h4> Rajarshi Chakraborty - Computer Science undergrad (2027) specializing in software engineering, system design, and high-performance full-stack development. I focus on building scalable, secure, and reliable applications with clean architecture and optimized code. Passionate about engineering excellence, product thinking, and delivering solutions that drive real business impact. Actively seeking opportunities to contribute to large-scale, mission-critical projects. </h4>
 <div align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" 
@@ -63,7 +63,6 @@ console.log("Welcome to my GitHub profile!");
 
 </div>
 
----
 
 ## 🛠️ **Tech Arsenal**
 
@@ -83,7 +82,6 @@ class TechStack:
 tech = TechStack()
 print(f"Current Focus: {tech.get_expertise_level()}")
 ```
----
 
 ## 💡 **Current Mission**
 
@@ -110,7 +108,10 @@ const myJourney: CurrentFocus = {
                             - Cory House
 ```
 
-<img src="https://komarev.com/ghpvc/?username=srijitajana9&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img 
+    src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" 
+    alt="Profile views"   
+  />
 
 </div>
 
