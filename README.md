@@ -52,15 +52,18 @@
 
   <div class="leetcode-card">
     <div class="leetcode-title">🔥 LeetCode Heatmap & Stats</div>
-    <a href="https://leetcode.com/rajarshi_2005" target="_blank">
+    < href="https://leetcode.com/rajarshi_2005" target="_blank">
       <img 
         src="https://leetcard.jacoblin.cool/rajarshi_2005?theme=dark&font=Poppins&ext=heatmap" 
         alt="LeetCode Stats"
       />
-    </a>
+      
+    
   </div>
 
 </div>
+
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/rajarshi2005?theme=dark)](https://www.geeksforgeeks.org/profile/rajarshi2005)
 
 
 ```javascript
