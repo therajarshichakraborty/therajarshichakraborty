@@ -1,126 +1,42 @@
 # Hello 👋🏻, I'm Rajarshi Chakraborty
 ### I am a Full-Stack TypeScript Developer.
 
-<h4> Rajarshi Chakraborty - Computer Science undergrad (2027) specializing in software engineering, system design, and high-performance full-stack development. I focus on building scalable, secure, and reliable applications with clean architecture and optimized code. Passionate about engineering excellence, product thinking, and delivering solutions that drive real business impact. Actively seeking opportunities to contribute to large-scale, mission-critical projects. </h4>
-<div align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" 
-    alt="Profile views"   
-  />
-</div>
+<h4>Rajarshi Chakraborty — Computer Science undergrad (2027) specializing in software engineering, system design, and high-performance full-stack development. I focus on building scalable, secure, and reliable applications with clean architecture and optimized code. Passionate about engineering excellence, product thinking, and delivering solutions that drive real business impact. Actively seeking opportunities to contribute to large-scale, mission-critical projects.</h4>
 
-<div align="left">
-  <a href="https://twitter.com/rajarshi_2005" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter Follow Badge"
-      width="40" height="40"
-    />
-  </a>
-</div>
+<div align="left"><img src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" /></div>
 
-- 📫 **How to reach me** : **1. rajarshi29032005@gmail.com 2.  rajarshichakraborty2005@gmail.com**
-- 📞 **Contact Number + Whatsapp** : **+91 8001950250**
-- 👨‍💻 **All of my projects are available at** : **[https://codolio.com/profile/Rajarshi@2005](https://codolio.com/profile/Rajarshi@2005)**
-- 📝 **I regularly write articles on** : **[https://medium.com/@rajarshi_2005](https://medium.com/@rajarshi_2005)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="_blank" href="https://github.com/chakrabortyrajarshi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chakrabortyrajarshi2005" height="30" width="40" /></a>
-<a target="_blank" href="https://linkedin.com/in/rajarshi-chakraborty-06a3402b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajarshi-chakraborty-06a3402b7" height="30" width="40" /></a>
-<a target="_blank" href="https://kaggle.com/rajarshic2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajarshic2005" height="30" width="40" /></a>
-<a target="_blank" href="https://instagram.com/rajarshichakraborty_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajarshichakraborty_2005" height="30" width="40" /></a>
-<a target="_blank" href="https://twitter.com/rajarshi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajarshi_2005" height="30" width="40" /></a>
-<a target="_blank" href="https://medium.com/@rajarshi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajarshi_2005" height="30" width="40" /></a>
-<a target="_blank" href="https://codechef.com/users/rajarshi2005" target="blank"><img align="center" src="https://img.icons8.com/color/512/codechef.png" alt="rajarshi2005" height="30" width="40" /></a>
-<a target="_blank" href="https://hackerrank.com/rajarshi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajarshi2005" height="30" width="40" /></a>
-<a target="_blank" href="https://codeforces.com/profile/rajarshi123456789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajarshi123456789" height="30" width="40" /></a>
-<a target="_blank" href="https://leetcode.com/rajarshi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajarshi_2005" height="30" width="40" /></a>
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/rajarshi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajarshi2005" height="30" width="40" /></a>
-</p>
+- 📫 **How to reach me:** rajarshi29032005@gmail.com · rajarshichakraborty2005@gmail.com
+- 📞 **Contact / WhatsApp:** +91 8001950250
+- 👨‍💻 **Projects:** [codolio.com/profile/Rajarshi@2005](https://codolio.com/profile/Rajarshi@2005)
+- 📝 **Articles:** [medium.com/@rajarshi_2005](https://medium.com/@rajarshi_2005)
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### Connect with me
+
+<p align="left"><a href="https://github.com/chakrabortyrajarshi2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a><a href="https://linkedin.com/in/rajarshi-chakraborty-06a3402b7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a><a href="https://kaggle.com/rajarshic2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a><a href="https://instagram.com/rajarshichakraborty_2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a><a href="https://twitter.com/rajarshi_2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a><a href="https://medium.com/@rajarshi_2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a><a href="https://codechef.com/users/rajarshi2005" target="_blank"><img src="https://img.icons8.com/color/512/codechef.png" alt="CodeChef" height="30" width="40" /></a><a href="https://hackerrank.com/rajarshi2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a><a href="https://codeforces.com/profile/rajarshi123456789" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a><a href="https://leetcode.com/rajarshi_2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/rajarshi2005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a></p>
+
+---
+
 ## 🚀 Tech Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda"><img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40"/></a>
-  <a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/></a>
-  <a href="https://appwrite.io"><img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40"/></a>
-  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>
-  <a href="https://d3js.org"><img src="https://skillicons.dev/icons?i=d3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"/></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/></a>
-  <a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-  <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="40" height="40"/></a>
-  <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/></a>
-  <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" width="40" height="40"/></a>
-  <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></a>
-  <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-  <a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com"><img src="https://skillicons.dev/icons?i=matlab" width="40" height="40"/></a>
-  <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
-  <a href="https://mlflow.org"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
-  <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/></a>
-  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
-  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-  <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
-  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
-  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-  <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a>
-  <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a>
-  <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/></a>
-  <a href="https://streamlit.io"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
-  <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" width="40" height="40"/></a>
-</p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/anaconda"><img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40"/></a><a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/></a><a href="https://appwrite.io"><img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40"/></a><a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a><a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a><a href="https://www.chartjs.org"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40"/></a><a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a><a href="https://d3js.org"><img src="https://skillicons.dev/icons?i=d3" width="40" height="40"/></a><a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"/></a><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a><a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a><a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/></a><a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a><a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a><a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/></a><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a><a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="40" height="40"/></a><a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/></a><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a><a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/></a><a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" width="40" height="40"/></a><a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></a><a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/></a><a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a><a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/></a><a href="https://www.mathworks.com"><img src="https://skillicons.dev/icons?i=matlab" width="40" height="40"/></a><a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a><a href="https://mlflow.org"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></a><a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a><a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a><a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/></a><a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a><a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a><a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/></a><a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a><a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a><a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a><a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a><a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a><a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a><a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a><a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a><a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/></a><a href="https://streamlit.io"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/></a><a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a><a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a><a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a><a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" width="40" height="40"/></a></p>
+
+---
 
 ## My LeetCode Journey
 
-
-
 <div align="center">
-
-
-
-  <div class="leetcode-card">
-    <div class="leetcode-title">🔥 LeetCode Heatmap & Stats</div>
-    <a href="https://leetcode.com/rajarshi_2005" target="_blank">
-      <img 
-        src="https://leetcard.jacoblin.cool/rajarshi_2005?theme=dark&font=Poppins&ext=heatmap" 
-        alt="LeetCode Stats"
-      />
-      
-    
-  </div>
-
+  <a href="https://leetcode.com/rajarshi_2005" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rajarshi_2005?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </div>
 
 [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/rajarshi2005?theme=dark)](https://www.geeksforgeeks.org/profile/rajarshi2005)
 
+---
 
 ```javascript
 const developer = {
@@ -136,18 +52,15 @@ const developer = {
 console.log("Welcome to my GitHub profile!");
 ```
 
-
-
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+TypeScript+Developer;Generative+AI+%26+Agentic+AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
+---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ Tech Arsenal
 
 ```python
 class TechStack:
@@ -166,7 +79,7 @@ tech = TechStack()
 print(f"Current Focus: {tech.get_expertise_level()}")
 ```
 
-## 💡 **Current Mission**
+## 💡 Current Mission
 
 ```typescript
 interface CurrentFocus {
@@ -182,23 +95,18 @@ const myJourney: CurrentFocus = {
 };
 ```
 
+---
+
 <div align="center">
 
-```ascii
+```
      ⭐ Thanks for visiting! ⭐
-    
+
     "Code is like humor. When you have to explain it, it's bad."
-                            - Cory House
+                            — Cory House
 ```
 
-<img 
-    src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" 
-    alt="Profile views"   
-  />
-
-</div>
-
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
 **💻 Happy Coding! 💻**
 
