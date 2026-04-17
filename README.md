@@ -1,4 +1,5 @@
 # Hello 👋🏻, I'm Rajarshi Chakraborty
+
 ### I am a Full-Stack TypeScript Developer.
 
 <h4>Rajarshi Chakraborty — Computer Science undergrad (2027) specializing in software engineering, system design, and high-performance full-stack development. I focus on building scalable, secure, and reliable applications with clean architecture and optimized code. Passionate about engineering excellence, product thinking, and delivering solutions that drive real business impact. Actively seeking opportunities to contribute to large-scale, mission-critical projects.</h4>
@@ -18,10 +19,10 @@
 
 <table><tr>
 <td><a href="https://github.com/chakrabortyrajarshi2005"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/></a></td>
-<td><a href="https://linkedin.com/in/rajarshi-chakraborty-06a3402b7"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a></td>
+<td><a href="https://www.linkedin.com/in/rajarshi-c-06a3402b7/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a></td>
 <td><a href="https://kaggle.com/rajarshic2005"><img src="https://skillicons.dev/icons?i=kaggle" width="40" height="40" alt="Kaggle"/></a></td>
 <td><a href="https://instagram.com/rajarshichakraborty_2005"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/></a></td>
-<td><a href="https://twitter.com/rajarshi_2005"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/></a></td>
+<td><a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/></a></td>
 <td><a href="https://medium.com/@rajarshi_2005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40" alt="Medium"/></a></td>
 <td><a href="https://codechef.com/users/rajarshi2005"><img src="https://img.icons8.com/color/512/codechef.png" width="40" height="40" alt="CodeChef"/></a></td>
 <td><a href="https://hackerrank.com/rajarshi2005"><img src="https://skillicons.dev/icons?i=hackerrank" width="40" height="40" alt="HackerRank"/></a></td>
@@ -74,16 +75,21 @@
 
 ```javascript
 const developer = {
-    name: "Rajarshi Chakraborty",
-    role: "Full Stack TypeScript Developer & Generative AI Engineer",
-    location: "Kolkata, India",
-    education: "B.Tech Computer Science @Techno Main Salt Lake",
-    passion: ["Generative & Agentic AI", "AI/ML", "Backend Development", "Problem Solving"],
-    currentlyWorking: "Building innovative solutions",
-    funFact: "I love coding 🏆"
+	name: 'Rajarshi Chakraborty',
+	role: 'Full Stack TypeScript Developer & Generative AI Engineer',
+	location: 'Kolkata, India',
+	education: 'B.Tech Computer Science @Techno Main Salt Lake',
+	passion: [
+		'Generative & Agentic AI',
+		'AI/ML',
+		'Backend Development',
+		'Problem Solving',
+	],
+	currentlyWorking: 'Building innovative solutions',
+	funFact: 'I love coding 🏆',
 };
 
-console.log("Welcome to my GitHub profile!");
+console.log('Welcome to my GitHub profile!');
 ```
 
 <div align="center">
@@ -117,15 +123,19 @@ print(f"Current Focus: {tech.get_expertise_level()}")
 
 ```typescript
 interface CurrentFocus {
-  learning: string[];
-  building: string[];
-  exploring: string[];
+	learning: string[];
+	building: string[];
+	exploring: string[];
 }
 
 const myJourney: CurrentFocus = {
-  learning: ["Advanced AI/ML", "Cloud Technologies", "System Design"],
-  building: ["Scalable Web Apps", "AI-Powered Solutions", "Open Source Projects"],
-  exploring: ["Computer Vision", "NLP Applications", "DevOps Practices"]
+	learning: ['Advanced AI/ML', 'Cloud Technologies', 'System Design'],
+	building: [
+		'Scalable Web Apps',
+		'AI-Powered Solutions',
+		'Open Source Projects',
+	],
+	exploring: ['Computer Vision', 'NLP Applications', 'DevOps Practices'],
 };
 ```
 
