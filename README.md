@@ -21,7 +21,7 @@ I build production-grade software with a strong emphasis on scalability, reliabi
 
 * **ReviewRay** - AI-powered code review engine that delivers intelligent code analysis, actionable feedback, and developer-focused insights using modern LLMs.
 * **Post Meridian** - A modern AI-powered social media management platform for creating, scheduling, and managing content across multiple platforms.
-* **Social Media Scheduler** - A scalable multi-platform scheduling system with automation workflows, content management, and publishing capabilities.
+* **Talk to your Github** -  a platform to talk to your github in natural languages.
 * **Synapse UI** - An open-source, modern React component library built with Next.js, TypeScript, Tailwind CSS, and shadcn-inspired design principles for building beautiful, accessible applications.
 * **Zenith CLI** - A developer-focused AI coding assistant for the terminal that streamlines software development with intelligent code generation, project scaffolding, debugging assistance, and automation directly from the command line.
 
