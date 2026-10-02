@@ -4,7 +4,7 @@
 
 <h4>
   
-Computer Science & Engineering undergraduate ( Class of 2027 ) passionate about **software engineering, distributed systems, AI-powered applications, system design, and high-performance full-stack development**.
+Computer Science & Engineering undergrad ( Class of 2027 ) passionate about **software engineering, distributed systems, AI-powered applications, system design, and high-performance full-stack development**.
 
 I build production-grade software with a strong emphasis on scalability, reliability, clean architecture, and developer experience. My interests span backend engineering, cloud-native systems, workflow automation, modern AI integrations, and building products that solve real-world problems.
 
