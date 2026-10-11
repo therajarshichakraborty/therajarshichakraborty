@@ -1,4 +1,4 @@
-# Hello 👋🏻, I'm Rajarshi Chakraborty
+# Hello 👋🏻, I'm Rajarshi Chakraborty (RC)
 
 ### I am a Full-Stack TypeScript Developer & AI Engineer.
 
@@ -10,13 +10,13 @@ I build production-grade software with a strong emphasis on scalability, reliabi
 
 ### Tech Stack
 
-* **Languages:** TypeScript, JavaScript, Java, Go, Python
-* **Frontend:** Next, React, Tailwind, Shadcn/UI
+* **Languages:** TypeScript, Java, Go, Python
+* **Frontend:** Next, React
 * **Backend:** Node, Express, Nest, Fastify, tRPC, GraphQL
 * **Mobile:** React Native, Expo, Firebase, Supabase
 * **Databases:** PostgreSQL, MongoDB, SQLite, Redis, Drizzle ORM, Prisma
-* **AI & LLMs:** OpenAI, Gemini AI, Anthropic, LangChain, LangGraph, Inngest
-* **Infrastructure:** Docker, Kubernetes, Git, Linux, REST APIs, CI/CD
+* **AI & LLMs:** OpenAI, Openrouter, Anthropic, LangChain, LangGraph, Inngest
+* **Infrastructure:** Docker, Kubernetes, CI/CD
 
 ### Featured Projects
 
