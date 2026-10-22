@@ -1,13 +1,14 @@
 # Hello 👋🏻, I'm Rajarshi Chakraborty (RC)
 
-### I am a Full-Stack TypeScript Developer & AI Engineer.
+### Full-Stack TypeScript Developer specializing in robust backend systems & AI Engineer.
 
 <h4>
   
 Computer Science & Engineering undergrad ( Class of 2027 ) passionate about **software engineering, distributed systems, AI-powered applications, system design, and high-performance full-stack development**.
 
 I build production-grade software with a strong emphasis on scalability, reliability, clean architecture, and developer experience. My interests span backend engineering, cloud-native systems, workflow automation, modern AI integrations, and building products that solve real-world problems.
-
+</h4>
+<!--
 ### Tech Stack
 
 * **Languages:** TypeScript, Java, Go, Python
@@ -30,10 +31,9 @@ I'm currently focused on building enterprise-scale applications, mastering distr
 
 **Always open to collaborating on ambitious open-source projects, developer tools, and large-scale software systems.**
 </h4>
+-->
 
-
----
-
+# Contacts:
 - **How to reach me:** rajarshi29032005@gmail.com & rajarshichakraborty2005@gmail.com
 - **Contact / WhatsApp:** +91 8001950250
 - **Portfolio:** [Visit Portfolio](https://rajarshis-portfolio.vercel.app/)
