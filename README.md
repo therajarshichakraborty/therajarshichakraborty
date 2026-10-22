@@ -31,7 +31,6 @@ I'm currently focused on building enterprise-scale applications, mastering distr
 **Always open to collaborating on ambitious open-source projects, developer tools, and large-scale software systems.**
 </h4>
 
-<div align="left"><img src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" /></div>
 
 ---
 
