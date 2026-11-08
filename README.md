@@ -1,6 +1,6 @@
 # Hello 👋🏻, I'm Rajarshi Chakraborty (RC)
 
-### Full-Stack TypeScript Developer specializing in robust backend systems & AI Engineer.
+### Full-Stack Developer specializing in robust backend systems & AI Engineer.
 
 <h4>
   
