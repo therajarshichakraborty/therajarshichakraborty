@@ -1,4 +1,4 @@
-# Hello 👋🏻, I'm Rajarshi Chakraborty (RC)
+# Hello, I'm Rajarshi Chakraborty (RC)
 
 ### Full-Stack Developer specializing in robust backend systems & AI Engineer.
 
