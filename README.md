@@ -1,22 +1,22 @@
 # Hello, I'm Rajarshi Chakraborty (RC)
 
-### Full-Stack Developer specializing in robust backend systems & AI Engineer.
+Full-Stack Developer specializing in robust backend systems & AI Engineer.
 
-<h4>
+<p>
   
 Computer Science & Engineering undergrad ( Class of 2027 ) passionate about **software engineering, distributed systems, AI-powered applications, system design, and high-performance full-stack development**.
 
 I build production-grade software with a strong emphasis on scalability, reliability, clean architecture, and developer experience. My interests span backend engineering, cloud-native systems, workflow automation, modern AI integrations, and building products that solve real-world problems.
-</h4>
+</p>
 <!--
 ### Tech Stack
 
 * **Languages:** TypeScript, Java, Go, Python
 * **Frontend:** Next, React
 * **Backend:** Node, Express, Nest, Fastify, tRPC, GraphQL
-* **Mobile:** React Native, Expo, Firebase, Supabase
-* **Databases:** PostgreSQL, MongoDB, SQLite, Redis, Drizzle ORM, Prisma
-* **AI & LLMs:** OpenAI, Openrouter, Anthropic, LangChain, LangGraph, Inngest
+* **Mobile:** React Native, Expo, Supabase
+* **Databases:** PostgreSQL, MongoDB, SQLite, Redis, Drizzle, Prisma
+* **AI & LLMs:** OpenAI, Anthropic, LangChain, LangGraph, Inngest
 * **Infrastructure:** Docker, Kubernetes, CI/CD
 
 ### Featured Projects
@@ -30,12 +30,13 @@ I build production-grade software with a strong emphasis on scalability, reliabi
 I'm currently focused on building enterprise-scale applications, mastering distributed systems and system design, and developing AI-native products that improve developer productivity.
 
 **Always open to collaborating on ambitious open-source projects, developer tools, and large-scale software systems.**
-</h4>
+</p>
 -->
 
 # Contacts:
 - **How to reach me:** rajarshi29032005@gmail.com & rajarshichakraborty2005@gmail.com
 - **Contact / WhatsApp:** +91 8001950250
 - **Portfolio:** [Visit Portfolio](https://rajarshis-portfolio.vercel.app/)
+- **LeetCode:** [Visit LeetCode](https://leetcode.com/u/rajarshi_2005/)
 - **Articles:** [Visit Blog](https://hashnode.com/@Rajarshi2005)
 
